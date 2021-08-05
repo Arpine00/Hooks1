@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hooks1/static/css/main.d0b33926.chunk.css",
+    "main.js": "/hooks1/static/js/main.028cf461.chunk.js",
+    "main.js.map": "/hooks1/static/js/main.028cf461.chunk.js.map",
+    "runtime-main.js": "/hooks1/static/js/runtime-main.ce40b0e0.js",
+    "runtime-main.js.map": "/hooks1/static/js/runtime-main.ce40b0e0.js.map",
+    "static/css/2.4a5b1c4a.chunk.css": "/hooks1/static/css/2.4a5b1c4a.chunk.css",
+    "static/js/2.edb7c05b.chunk.js": "/hooks1/static/js/2.edb7c05b.chunk.js",
+    "static/js/2.edb7c05b.chunk.js.map": "/hooks1/static/js/2.edb7c05b.chunk.js.map",
+    "static/js/3.d73d7cd2.chunk.js": "/hooks1/static/js/3.d73d7cd2.chunk.js",
+    "static/js/3.d73d7cd2.chunk.js.map": "/hooks1/static/js/3.d73d7cd2.chunk.js.map",
+    "index.html": "/hooks1/index.html",
+    "static/css/2.4a5b1c4a.chunk.css.map": "/hooks1/static/css/2.4a5b1c4a.chunk.css.map",
+    "static/css/main.d0b33926.chunk.css.map": "/hooks1/static/css/main.d0b33926.chunk.css.map",
+    "static/js/2.edb7c05b.chunk.js.LICENSE.txt": "/hooks1/static/js/2.edb7c05b.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/hooks1/static/media/UploadIcon.469126df.svg",
+    "static/media/slick-theme.css": "/hooks1/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce40b0e0.js",
+    "static/css/2.4a5b1c4a.chunk.css",
+    "static/js/2.edb7c05b.chunk.js",
+    "static/css/main.d0b33926.chunk.css",
+    "static/js/main.028cf461.chunk.js"
+  ]
+}
